@@ -1,0 +1,17 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\beamer@sectionintoc {1}{La misurazione in psicologia}{3}{0}{1}
+\beamer@sectionintoc {2}{Scale di misura}{19}{0}{2}
+\beamer@subsectionintoc {2}{1}{Scala nominale}{21}{0}{2}
+\beamer@subsectionintoc {2}{2}{Scala ordinale}{24}{0}{2}
+\beamer@subsectionintoc {2}{3}{Scala a intervalli equivalenti}{27}{0}{2}
+\beamer@subsectionintoc {2}{4}{Scala a rapporti equivalenti}{30}{0}{2}
+\beamer@sectionintoc {4}{Validità e attendibilità delle misure}{35}{0}{3}
+\beamer@sectionintoc {5}{Misurazione esplicita}{43}{0}{4}
+\beamer@sectionintoc {6}{Misurazione implicita: Definizioni ed evoluzione}{59}{0}{5}
+\beamer@sectionintoc {7}{Implicit Association Test}{68}{0}{6}
+\beamer@sectionintoc {8}{Altre misure implicite}{82}{0}{7}
+\beamer@subsectionintoc {8}{1}{Single Category IAT}{85}{0}{7}
+\beamer@subsectionintoc {8}{3}{Go/No-go association Task}{93}{0}{7}
+\beamer@subsectionintoc {8}{4}{Sorting Paired Features Task}{99}{0}{7}
+\beamer@sectionintoc {9}{The easy way}{102}{0}{8}
